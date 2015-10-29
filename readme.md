@@ -5,7 +5,7 @@ It includes Lumen & MarkDB with small bit of code for functionality.
 
 ## Install
 ```shell
-git clone git@github.com:rockstarcode/MarkDB-CMS.git myblog
+git clone git@github.com:rockstarcode/MarkDB-Lumen.git myblog
 git clone git@github.com:rockstarcode/MarkDB-CMS-Sample-Blog.git myblog-content
 
 cd myblog
